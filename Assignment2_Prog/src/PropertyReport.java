@@ -7,7 +7,7 @@ public class PropertyReport {
         if (property != null) {
             System.out.println("---------------------------");
             System.out.println(property);
-            System.out.println("PROPERTY" +1);
+            System.out.println("PROPERTY");
             System.out.println("---------------------------");
         } else {
             System.out.println("Property not found!");
